@@ -4,5 +4,6 @@ body {
 
 img {
   float: center;
-  height: 150px;
+  height: 100px;
+  width: 100px;
 }
