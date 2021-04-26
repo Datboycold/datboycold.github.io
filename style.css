@@ -3,7 +3,7 @@ body {
 }
 
 img {
-  float: center;
-  height: 100px;
-  width: 100px;
+  float: left;
+  height: 150px;
+  width: 150px;
 }
