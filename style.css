@@ -1,12 +1,14 @@
 body {
-  background-color: #87CEFA;
-}
+    background-color: #87CEFA;
+  }
+  
+  img {
+   height:225px;
+   width:225px; 
+   }
+  
+  h1 {
+    text-align: center;
+  }
 
-img {
- height:225px;
- width:225px; 
- }
-
-h1 {
-  text-align: center;
-}
+  
